@@ -7,8 +7,6 @@ This dashboard provides a comprehensive overview of student academic outcomes an
 
 
 
-📘 Academic Performance Overview
+🎓 University Student Academic Performance & Engagement Analytics – Overview
 
-This section of the dashboard provides a detailed analysis of student academic outcomes, focusing on grade distribution, attendance trends, and individual student performance.
-
-![](
+This dashboard provides a high-level summary of student performance, engagement, and risk indicators across multiple departments. It is designed to help educators and decision-makers quickly assess overall academic health and identify areas requiring attention.
