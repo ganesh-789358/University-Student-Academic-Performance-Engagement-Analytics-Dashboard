@@ -19,3 +19,8 @@ This page provides a detailed view of student academic outcomes, focusing on gra
 
 ![](https://github.com/ganesh-789358/University-Student-Academic-Performance-Engagement-Analytics-Dashboard/blob/main/Screenshot%202026-04-12%20232225.png)
 
+📊 Engagement Analysis
+
+This section focuses on understanding how student engagement—particularly reflected through performance metrics—varies across different grade categories. It helps identify patterns between academic achievement and overall student involvement.
+
+
