@@ -26,4 +26,11 @@ This section focuses on understanding how student engagement—particularly refl
 ![](http://github.com/ganesh-789358/University-Student-Academic-Performance-Engagement-Analytics-Dashboard/blob/main/Screenshot%202026-04-12%20232246.png)
 
 
+At-Risk Student Analysis
+
+This section highlights students who are at risk of poor academic performance, enabling early identification and timely intervention. It provides a focused view of the proportion and count of students requiring academic support.
+
+![](
+
+
 
